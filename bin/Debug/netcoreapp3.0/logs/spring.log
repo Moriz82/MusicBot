@@ -1,0 +1,2 @@
+2021-10-12 11:31:56.700  INFO 15988 --- [XNIO-1 task-43] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:52506
+2021-10-12 11:31:56.731  INFO 15988 --- [XNIO-1 task-43] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:52506

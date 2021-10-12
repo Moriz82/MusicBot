@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\willi\\RiderProjects\\StreamMusicBot-master\\StreamMusicBot-master\\StreamMusicBot\\StreamMusicBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\willi\\RiderProjects\\StreamMusicBot-master\\StreamMusicBot-master\\StreamMusicBot\\StreamMusicBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\willi\\RiderProjects\\StreamMusicBot-master\\StreamMusicBot-master\\StreamMusicBot\\StreamMusicBot.csproj",
+        "projectName": "StreamMusicBot",
+        "projectPath": "C:\\Users\\willi\\RiderProjects\\StreamMusicBot-master\\StreamMusicBot-master\\StreamMusicBot\\StreamMusicBot.csproj",
+        "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\willi\\RiderProjects\\StreamMusicBot-master\\StreamMusicBot-master\\StreamMusicBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Victoria": {
+              "target": "Package",
+              "version": "[4.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
